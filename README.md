@@ -26,7 +26,7 @@ were actually correct.
 
 ## AI-Assisted Data Pipeline
 
-![Operations Intelligence Pipeline](uber_lyft_pipeline.png)
+![Operations Intelligence Pipeline](uber_lyft_operations_pipeline_v2.png)
 
 ### Input
 Screen recordings of the Uber earnings feed and Mystro offer history — raw, unstructured
